@@ -1,0 +1,11 @@
+ru:
+  activerecord:
+    models:
+      book:
+        one: 'Книга'
+    attributes:
+      book:
+        title: 'Название'
+        author: 'Автор'
+        year: 'Год'
+        description: 'Описание'
